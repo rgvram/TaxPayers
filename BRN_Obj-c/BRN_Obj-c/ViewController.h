@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+//This property created by Rakesh
+@property NSArray * arry;
 
 @end
 
