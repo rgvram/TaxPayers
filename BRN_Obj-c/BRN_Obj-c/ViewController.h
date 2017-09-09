@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 //This property created by Rakesh
 @property NSArray * arry;
+@property NSDictionary * dic;
 
 @end
 
